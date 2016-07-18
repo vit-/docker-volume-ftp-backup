@@ -1,4 +1,5 @@
-#!/usr/bin/env bash
+#!/usr/bin/env sh
+set -x
 
 # Required env vars:
 #
